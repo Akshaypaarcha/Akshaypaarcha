@@ -1,3 +1,5 @@
+<img align="central" alt="coding" widht="200" src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ">
+
 
 # 💫 About Me:
 👨🏻‍💻 An Aspiring Data Scientist currently getting my hands dirty on different software's. I am pursuing post graduate diploma in Data science while focusing on different data science projects side by side. A coffee freak, avid traveller and loves to tell stories, i have utilized my machine learning and deep learning techniques to empower the data and transform it to a story telling technique, thereby changing the raw data into a story.<br>📫 Reach me at akshaypaarcha.9@gmail.com<br>🚀 I love to Travel

@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 👨🏻‍💻 An Aspiring Data Scientist currently getting my hands dirty on different software's. I am pursuing post graduate diploma in Data science while focusing on different data science projects side by side. A coffee freak, avid traveller and loves to tell stories, i have utilized my machine learning and deep learning techniques to empower the data and transform it to a story telling technique, thereby changing the raw data into a story.<br>📫 Reach me at akshaypaarcha.9@gmail.com<br>🚀 I love to Travel
-<img align="right" alt="coding" widht="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" widht="100" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## 🌐 Conect with me in Socials Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akshayparcha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayparcha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akshaypaarcha) 
